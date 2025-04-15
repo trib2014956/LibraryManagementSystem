@@ -1,0 +1,2 @@
+PrintedBook,Java Programming,John Doe,Programming,1234567890,true,,300
+Ebook,Python Basics,Jane Smith,Programming,0987654321,true,,PDF
